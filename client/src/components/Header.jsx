@@ -6,8 +6,8 @@ export default function Header() {
     <header className='bg-slate-200 shadow-md'>
         <div className='flex justify-between items-center max-w-6xl mx-auto p-3'>
             <h1 className='font-bold text-sm sm:text-xl flex flex-warp'>
-            <span className='text-red-500'>Easy</span>
-            <span className='text-red-700'>Stay</span>
+            <span className='text-blue-500'>Easy</span>
+            <span className='text-blue-700'>Stay</span>
         </h1>
         <form className='bg-slate-100 p-3 rounded flex items-center'>
             <input type='text' placeholder='Search...' 
